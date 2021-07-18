@@ -93,7 +93,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_defaultView: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
-  m_playerView: {fileID: -2222346464153789849, guid: af1f6c10ec55969498f10d184ba47b93,
+  m_playerView: {fileID: -8803937527578110353, guid: 6dcab2f0cdf41b849b92689f30a0472e,
     type: 3}
   m_rotateDirection: {x: 0, y: 0, z: 0}
 --- !u!1 &723690327789504239

@@ -12,10 +12,6 @@ public class PlanetView : MonoBehaviour
     public void UpdateView(int hash, bool isPlayer)
     {
         var rnd = new Random(hash);
-        if (isPlayer)
-        {
-            transform.localScale = Vector3.one * .5f;
-        }
 
         m_rotateDirection = new Vector3(rnd.Next(-150, 151),
                                         rnd.Next(-150, 151),

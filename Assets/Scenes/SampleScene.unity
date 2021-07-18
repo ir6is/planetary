@@ -1056,7 +1056,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_rigidbody: {fileID: 1042577569}
-  <GravityCoefficient>k__BackingField: 1
 --- !u!1 &1297800573
 GameObject:
   m_ObjectHideFlags: 0
